@@ -1,0 +1,364 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "fabisblog",
+  "home_page_url": "https://fabisblog.com",
+  "feed_url": "https://fabisblog.comfeed.json",
+  "description": "A minimal hugo theme focus on content",
+  "favicon": "https://fabisblog.com/assets/favicon.ico",
+  "expired": false,
+  "author": {
+    "name": "<no value>",
+    "url": "https://fabisblog.com"
+  },
+  "items": [
+    
+    
+
+    
+    {
+      "id": "31cac7116007a4a7cb8531d8f73e5b00632bb800",
+      "title": "In Awe Of Life",
+      "summary": "",
+      "content_text": "In Awe Of Life\nHow can it be so beautiful, day after day… all this is.\nSpending time with friends. Seeing the flower grow out of those tiny little cracks in the concrete. Hearing people laugh. Seeing the sun rise up. Preparing the nutritious meal for after the workout. Laying in bed to fall asleep. Rising out of bed in the morning, really grumpy and not wanting to go. Is it not this beautiful game called life?\nReverence, gratitude and awe for life. For everything that happens. Thats what I want to be known for. For embracing it all, never backing up, never shying away from the challenges being presented to me. I go through this earth school in love, courage and faith.\nWhat are my footprints that I am leaving behind? I hope they are good. I try to make sure that they are.\nLately, these past couple of days I am thinking about realizing our full potential. I think there is sooo much in every single one of us. So much love, courage, confidence, self esteem we can tap into. So much of it we can use to create and shape our life the way we desire it to be.\nAnd the best thing is\u0026hellip; that I already see the poeple close to me doing it. They really shine. Incredibly proud of you.\nLets go out, and make things happen. Every one of us.\nFabi ",
+      "content_html": "\u003cp\u003eIn Awe Of Life\u003c/p\u003e\n\u003cp\u003eHow can it be so beautiful, day after day… all this is.\u003c/p\u003e\n\u003cp\u003eSpending time with friends. Seeing the flower grow out of those tiny little cracks in the concrete. Hearing people laugh. Seeing the sun rise up. Preparing the nutritious meal for after the workout. Laying in bed to fall asleep. Rising out of bed in the morning, really grumpy and not wanting to go. Is it not this beautiful game called life?\u003c/p\u003e\n\u003cp\u003eReverence, gratitude and awe for life. For everything that happens. Thats what I want to be known for. For embracing it all, never backing up, never shying away from the challenges being presented to me. I go through this earth school in love, courage and faith.\u003c/p\u003e\n\u003cp\u003eWhat are my footprints that I am leaving behind? I hope they are good. I try to make sure that they are.\u003c/p\u003e\n\u003cp\u003eLately, these past couple of days I am thinking about realizing our full potential. I think there is sooo much in every single one of us. So much love, courage, confidence, self esteem we can tap into. So much of it we can use to create and shape our life the way we desire it to be.\u003c/p\u003e\n\u003cp\u003eAnd the best thing is\u0026hellip; that I already see the poeple close to me doing it. They really shine. Incredibly proud of you.\u003c/p\u003e\n\u003cp\u003eLets go out, and make things happen. Every one of us.\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eFabi\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "url": "https://fabisblog.com/posts/in_awe_of_life/",
+      "date_published": "9016-09-09T13:99:00+01:00",
+      "date_modified": "9016-09-09T13:99:00+01:00",
+      "author": {
+        "name": "<no value>",
+        "url": "https://fabisblog.com"
+      }
+    },
+    
+    {
+      "id": "e585ed5557c9f3dba684409a3e4833537be54e5b",
+      "title": "Another Day, Another Blessing",
+      "summary": "",
+      "content_text": "What a day! Even though I went to work, all was normal… but, you know, the energy was just right.\nMy day started off kind of really mad. Things did not seem to go my way, for like an hour, maybe two. In those moments, I really like being just mad and letting it off. Not off onto others of course, but venting and being real is very important.\nLater on, the energy started flowing. I had great conversations all day long, so much laughter, fun, compassion, things were just going my way… I made them go my way. All was good.\nAfter work, I eat right, to fuel me well. I laid down and took a short nap. After that, I went full on focus to do my things. You know, writing, chess, workouts, ice bathing, and so an. I go where the energy flows.\nYes, ice baths. I take them regularly. Very often. Almost every day, I just hop in my tub full of water, staying outside in the winter. Man, is it a blessing to experience things like that. The power is real. I am gonna elaborate on ice bathing and its benefits on the mind and body in another text, I am sure of that. It’s gotta be said.\nWell, just a normal day. What a blessing!\nWishing you love, power, excitement. And a good night sleep.\nFabi ",
+      "content_html": "\u003cp\u003eWhat a day! Even though I went to work, all was normal… but, you know, the energy was just right.\u003c/p\u003e\n\u003cp\u003eMy day started off kind of really mad. Things did not seem to go my way, for like an hour, maybe two. In those moments, I really like being just mad and letting it off. Not off onto others of course, but venting and being real is very important.\u003c/p\u003e\n\u003cp\u003eLater on, the energy started flowing. I had great conversations all day long, so much laughter, fun, compassion, things were just going my way… I made them go my way. All was good.\u003c/p\u003e\n\u003cp\u003eAfter work, I eat right, to fuel me well. I laid down and took a short nap. After that, I went full on focus to do my things. You know, writing, chess, workouts, ice bathing, and so an. I go where the energy flows.\u003c/p\u003e\n\u003cp\u003eYes, ice baths. I take them regularly. Very often. Almost every day, I just hop in my tub full of water, staying outside in the winter. Man, is it a blessing to experience things like that. The power is real. I am gonna elaborate on ice bathing and its benefits on the mind and body in another text, I am sure of that. It’s gotta be said.\u003c/p\u003e\n\u003cp\u003eWell, just a normal day. What a blessing!\u003c/p\u003e\n\u003cp\u003eWishing you love, power, excitement. And a good night sleep.\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eFabi\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "url": "https://fabisblog.com/posts/another_dayanother_blessing/",
+      "date_published": "4016-04-09T17:44:00+01:00",
+      "date_modified": "4016-04-09T17:44:00+01:00",
+      "author": {
+        "name": "<no value>",
+        "url": "https://fabisblog.com"
+      }
+    },
+    
+    {
+      "id": "6c1b76a68afb58a3d3a4d64ed64b5c4b682617b8",
+      "title": "Focus And Attention",
+      "summary": "",
+      "content_text": "I love to exercise my focus, concentration and attention span. To sit and focus on something for more like 15 minutes is something not so common anymore in our society. You see it in high performing people. But not really in the regular one.\nI love to give my best. I love a laser clear focus. When my brain is ON.\nI have just completed my first online chess tournament. It lasted for 3.5 hours. After 3 hours, my brain was jelly. To hold up that kind of concentration for a prolonged period of time is something I admire, and it is not too easy to do.\nI find that we can exercise our concentration and attention span. That is why I play chess, read books, listen to podcasts, write, and so on. Most of the day, my brain is on.\nIt gives me this good feeling of purpose and improvement in every single day.\nI am gonna continue to give my best. To be the most knowledgeable person I can be.\nIt is good for me and my self esteem.\nPS: Good sleep and good nutrition really helps us to focus and perform at our best, both physically and mentally.\nFabi ",
+      "content_html": "\u003cp\u003eI love to exercise my focus, concentration and attention span. To sit and focus on something for more like 15 minutes is something not so common anymore in our society.\n\u2028You see it in high performing people. But not really in the regular one.\u003c/p\u003e\n\u003cp\u003eI love to give my best. I love a laser clear focus. When my brain is ON.\u003c/p\u003e\n\u003cp\u003eI have just completed my first online chess tournament. It lasted for 3.5 hours. After 3 hours, my brain was jelly. To hold up that kind of concentration for a prolonged period of time is something I admire, and it is not too easy to do.\u003c/p\u003e\n\u003cp\u003eI find that we can exercise our concentration and attention span. That is why I play chess, read books, listen to podcasts, write, and so on. Most of the day, my brain is on.\u003c/p\u003e\n\u003cp\u003eIt gives me this good feeling of purpose and improvement in every single day.\u003c/p\u003e\n\u003cp\u003eI am gonna continue to give my best. To be the most knowledgeable person I can be.\u003c/p\u003e\n\u003cp\u003eIt is good for me and my self esteem.\u003c/p\u003e\n\u003cp\u003ePS: Good sleep and good nutrition really helps us to focus and perform at our best, both physically and mentally.\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eFabi\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "url": "https://fabisblog.com/posts/focus_and_attention/",
+      "date_published": "3016-03-09T146:33:00+01:00",
+      "date_modified": "3016-03-09T146:33:00+01:00",
+      "author": {
+        "name": "<no value>",
+        "url": "https://fabisblog.com"
+      }
+    },
+    
+    {
+      "id": "5559febbbea8639d701bd623b624c789ff2354be",
+      "title": "What Can I Give?",
+      "summary": "",
+      "content_text": "Asking.\nWhat can I give?\nWhat can I do more of?\nWhat can I do for you?\nTo give, it is my only purpose.\nNo answer today.\nFabi ",
+      "content_html": "\u003cp\u003eAsking.\u003c/p\u003e\n\u003cp\u003eWhat can I give?\u003c/p\u003e\n\u003cp\u003eWhat can I do more of?\u003c/p\u003e\n\u003cp\u003eWhat can I do for you?\u003c/p\u003e\n\u003cp\u003eTo give, it is my only purpose.\u003c/p\u003e\n\u003cp\u003eNo answer today.\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eFabi\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "url": "https://fabisblog.com/posts/what_can_i_give/",
+      "date_published": "2016-02-09T148:22:00+01:00",
+      "date_modified": "2016-02-09T148:22:00+01:00",
+      "author": {
+        "name": "<no value>",
+        "url": "https://fabisblog.com"
+      }
+    },
+    
+    {
+      "id": "475dc13cea28f2efd1e43f300ae9cc42e6f8b7b9",
+      "title": "Emotional Me",
+      "summary": "",
+      "content_text": "I don’t know if Christmas did this to me, but somehow I am super emotional about my family and friends.\nI have spend a good evening with three of my closest friends in the living room. Fire was burning slow in the chimney. No music was on. Just we. The three of us.\nI consider this a pure blessing in life. I thank you, my friends.\nSo emotional. What good can I do for you? Is it enough?\nYou are deserving of the world and beyond.\nSitting upstairs in my room. Hearing the laughter from down there. The laughter of you, soothing my soul.\nFabi ",
+      "content_html": "\u003cp\u003eI don’t know if Christmas did this to me, but somehow I am super emotional about my family and friends.\u003c/p\u003e\n\u003cp\u003eI have spend a good evening with three of my closest friends in the living room. Fire was burning slow in the chimney. No music was on. Just we. The three of us.\u003c/p\u003e\n\u003cp\u003eI consider this a pure blessing in life. I thank you, my friends.\u003c/p\u003e\n\u003cp\u003eSo emotional. What good can I do for you? Is it enough?\u003c/p\u003e\n\u003cp\u003eYou are deserving of the world and beyond.\u003c/p\u003e\n\u003cp\u003eSitting upstairs in my room. Hearing the laughter from down there. The laughter of you, soothing my soul.\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eFabi\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "url": "https://fabisblog.com/posts/emotional_me/",
+      "date_published": "28126-28-09T127:2828:00+01:00",
+      "date_modified": "28126-28-09T127:2828:00+01:00",
+      "author": {
+        "name": "<no value>",
+        "url": "https://fabisblog.com"
+      }
+    },
+    
+    {
+      "id": "2c4bdd7c3121903ab19ed2222f3dc431c67ee7ea",
+      "title": "Just An Update",
+      "summary": "",
+      "content_text": "Hello,\nJust a little update. I can already feel that it has been a couple of days with no entry on my page. It feels like a long time, so my wish to write and give and update on here is gonna be fulfilled right away.\nMaking wishes come true and fact in the world, non stop.\nFeels so wonderful to have a space just to write and let out. This is my space to do that. What a great and pacifying feeling that it gives me. Thank you.\nFirst of all, Christmas Days were lovely. I mean… so much that these days have meant to me. So much. I love my family beyond. I thank you, from the bottom of me heart.\nThe days are going pretty well for me. I am on track. It’s like I feel so full… Everything makes sense. I feel as if I am the richest man on earth. Again, I give thanks for that.\nMan, too much on my heart. Just sitting here in peace. Enjoying the moment. Feeling stronger than I have ever before.\nI am gonna pick up the thousand page book laying to my side and read it until I fall asleep.\nWish you a good night, a good day, and a good life.\nFabi ",
+      "content_html": "\u003cp\u003eHello,\u003c/p\u003e\n\u003cp\u003eJust a little update. I can already feel that it has been a couple of days with no entry on my page. It feels like a long time, so my wish to write and give and update on here is gonna be fulfilled right away.\u003c/p\u003e\n\u003cp\u003eMaking wishes come true and fact in the world, non stop.\u003c/p\u003e\n\u003cp\u003eFeels so wonderful to have a space just to write and let out. This is my space to do that. What a great and pacifying feeling that it gives me. Thank you.\u003c/p\u003e\n\u003cp\u003eFirst of all, Christmas Days were lovely. I mean… so much that these days have meant to me. So much. I love my family beyond. I thank you, from the bottom of me heart.\u003c/p\u003e\n\u003cp\u003eThe days are going pretty well for me. I am on track. It’s like I feel so full… Everything makes sense. I feel as if I am the richest man on earth. Again, I give thanks for that.\u003c/p\u003e\n\u003cp\u003eMan, too much on my heart. Just sitting here in peace. Enjoying the moment. Feeling stronger than I have ever before.\u003c/p\u003e\n\u003cp\u003eI am gonna pick up the thousand page book laying to my side and read it until I fall asleep.\u003c/p\u003e\n\u003cp\u003eWish you a good night, a good day, and a good life.\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eFabi\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "url": "https://fabisblog.com/posts/just_an_update/",
+      "date_published": "27126-27-09T1254:2727:00+01:00",
+      "date_modified": "27126-27-09T1254:2727:00+01:00",
+      "author": {
+        "name": "<no value>",
+        "url": "https://fabisblog.com"
+      }
+    },
+    
+    {
+      "id": "e104aed276b75ec08b1b10a5ee1e832e75408068",
+      "title": "Friends With The Struggle",
+      "summary": "",
+      "content_text": "I really, really am friends with the struggle. Good with the darkness. With the bad times. I know them very well. Of course I don’t like it. Of course. BUT - full acceptance is somehow making it easier. Way less overwhelming.\nOne kind of the weakest people around here are the ones only running around from one pleasure to another- you can smell the fear already. But they keep on running, running and looking for the things bringing pleasure, dopamine, fun. May it be partying, drugs, food, television, sex, social media, over exercising, workaholism, you name it…\nThey cannot bear a second of silence. It is terrifying.\nUnfortunately, the crash is always coming. And then the spiral begins anew.\nMy life goes the best just being up to date. Up to the moment. No shit in denial. No fears lingering around. When it comes - it comes. Then its time to face it and be am man. Going thru it. Making the best out of it. Learning. Pondering. Keeping on going. Getting things right again.\nBut running away… always ends in disaster.\nBe brave. Look. Go through it. Whatever it takes. Commit. Make your life great.\nAgain… I believe so much in us. I believe in the love and power of every single one of us. I wanna see us strong.\nFabi ",
+      "content_html": "\u003cp\u003eI really, really am friends with the struggle. Good with the darkness. With the bad times. I know them very well. Of course I don’t like it. Of course. BUT - full acceptance is somehow making it easier. Way less overwhelming.\u003c/p\u003e\n\u003cp\u003eOne kind of the weakest people around here are the ones only running around from one pleasure to another- you can smell the fear already. But they keep on running, running and looking for the things bringing pleasure, dopamine, fun. May it be partying, drugs, food, television, sex, social media, over exercising, workaholism, you name it…\u003c/p\u003e\n\u003cp\u003eThey cannot bear a second of silence. It is terrifying.\u003c/p\u003e\n\u003cp\u003eUnfortunately, the crash is always coming. And then the spiral begins anew.\u003c/p\u003e\n\u003cp\u003eMy life goes the best just being up to date. Up to the moment. No shit in denial. No fears lingering around. When it comes - it comes. Then its time to face it and be am man. Going thru it. Making the best out of it. Learning. Pondering. Keeping on going. Getting things right again.\u003c/p\u003e\n\u003cp\u003eBut running away… always ends in disaster.\u003c/p\u003e\n\u003cp\u003eBe brave. Look. Go through it. Whatever it takes. Commit. Make your life great.\u003c/p\u003e\n\u003cp\u003eAgain… I believe so much in us. I believe in the love and power of every single one of us. I wanna see us strong.\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eFabi\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "url": "https://fabisblog.com/posts/friends_with_the_struggle/",
+      "date_published": "22126-22-09T1227:2222:00+01:00",
+      "date_modified": "22126-22-09T1227:2222:00+01:00",
+      "author": {
+        "name": "<no value>",
+        "url": "https://fabisblog.com"
+      }
+    },
+    
+    {
+      "id": "99e49f266de7dc9ff76762a6b783e4b04849ebbc",
+      "title": "Poor Choices",
+      "summary": "",
+      "content_text": "In the past few days I made some bad choices a couple of times. Why do I keep doing that shit I am asking myself? Come on, really time to step up my game. Thats not me.\nVery mad at myself. Time to get outta here, quick. I know I can do it. I have proven great things to myself already. And I am gonna keep on forever.\nFabi ",
+      "content_html": "\u003cp\u003eIn the past few days I made some bad choices a couple of times. Why do I keep doing that shit I am asking myself? Come on, really time to step up my game. Thats not me.\u003c/p\u003e\n\u003cp\u003eVery mad at myself. Time to get outta here, quick. I know I can do it. I have proven great things to myself already. And I am gonna keep on forever.\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eFabi\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "url": "https://fabisblog.com/posts/poor_choices/",
+      "date_published": "20126-20-09T1231:2020:00+01:00",
+      "date_modified": "20126-20-09T1231:2020:00+01:00",
+      "author": {
+        "name": "<no value>",
+        "url": "https://fabisblog.com"
+      }
+    },
+    
+    {
+      "id": "baadbb6891f6ec1ddeaaab87534046ac09b2dcd5",
+      "title": "The Mind Is Clear",
+      "summary": "",
+      "content_text": "Nah, today was pretty good.\nAt a point I just sat there for like 30 minutes, breathing deep, feeling, and considering. Just being. Letting it flow. Was really beautiful. Bits of pain here and there, but it’s needed, isn\u0026rsquo;t it?\nBeing close to going to sleep now I look back at these hours. I even got a whole lotta shit done! A lot. Working towards these goals, so so so much. Everyday, putting in the work.\nThe mind is clear.\nFabi ",
+      "content_html": "\u003cp\u003eNah, today was pretty good.\u003c/p\u003e\n\u003cp\u003eAt a point I just sat there for like 30 minutes, breathing deep, feeling, and considering. Just being. Letting it flow. Was really beautiful. Bits of pain here and there, but it’s needed, isn\u0026rsquo;t it?\u003c/p\u003e\n\u003cp\u003eBeing close to going to sleep now I look back at these hours. I even got a whole lotta shit done! A lot. Working towards these goals, so so so much. Everyday, putting in the work.\u003c/p\u003e\n\u003cp\u003eThe mind is clear.\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eFabi\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "url": "https://fabisblog.com/posts/the_mind_is_clear/",
+      "date_published": "14126-14-09T1249:1414:00+01:00",
+      "date_modified": "14126-14-09T1249:1414:00+01:00",
+      "author": {
+        "name": "<no value>",
+        "url": "https://fabisblog.com"
+      }
+    },
+    
+    {
+      "id": "337161ade60c69e056c58b182aa755b0a5457024",
+      "title": "Laying Low, pt.2",
+      "summary": "",
+      "content_text": "Today some things came up again. I was sitting in grief, reflecting. Looking at chances I could have taken. Well, kind of laying low again today.\nWhat I find interesting is that grief and laying low does not chance the fact of a good day. I sit here in gratitude and presence.\nThe worst is to be split. To put on a smile while wanting to cry. That is really really bad.\nBut being present? Acknowledging the fears? That full on ok for me. I can handle myself pretty well.\nI went to my favorite market, buying the best produce (veggies, fruit, some meat) I can possibly find. The best around here. I don’t care the price. I am worth it.\nI heat up my room. I check all the stuff on my to do list. Slowly I get it done. All in peace. So my mind is clear.\nPeace of mind. The highest human good.\nFabi ",
+      "content_html": "\u003cp\u003eToday some things came up again. I was sitting in grief, reflecting. Looking at chances I could have taken. Well, kind of laying low again today.\u003c/p\u003e\n\u003cp\u003eWhat I find interesting is that grief and laying low does not chance the fact of a good day. I sit here in gratitude and presence.\u003c/p\u003e\n\u003cp\u003eThe worst is to be split. To put on a smile while wanting to cry. That is really really bad.\u003c/p\u003e\n\u003cp\u003eBut being present? Acknowledging the fears? That full on ok for me. I can handle myself pretty well.\u003c/p\u003e\n\u003cp\u003eI went to my favorite market, buying the best produce (veggies, fruit, some meat) I can possibly find. The best around here. I don’t care the price. I am worth it.\u003c/p\u003e\n\u003cp\u003eI heat up my room. I check all the stuff on my to do list. Slowly I get it done. All in peace. So my mind is clear.\u003c/p\u003e\n\u003cp\u003ePeace of mind. The highest human good.\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eFabi\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "url": "https://fabisblog.com/posts/laying_low_pt.2/",
+      "date_published": "14126-14-09T1251:1414:00+01:00",
+      "date_modified": "14126-14-09T1251:1414:00+01:00",
+      "author": {
+        "name": "<no value>",
+        "url": "https://fabisblog.com"
+      }
+    },
+    
+    {
+      "id": "2c96fa1650452f03c1e8ba9a42970ec3d0b445be",
+      "title": "I Feel Great (thought)",
+      "summary": "",
+      "content_text": "Of course I am very good in life. I feel fantastic. It only makes sense.\nOne of my highest values is hard work. I don\u0026rsquo;t take anything for granted, If I want something, I go and get it. I deserve it.\nI am taking care very well of me. I work out at least 3 times a week, to look good, be strong, and keep my masculine hormones all intact.\nI eat well. Almost no junkfood. I avoid sugar, and to a great deal I only eat natural foods, which did not went through a factory. I avoid chemicals at all costs.\nI take care of my mind. I read books. I listen to podcasts. Everyday, my mind brings up new ideas. I feed my brain very well. Additionally, I am an expert at taking care of my emotional state. If I do not feel well, I instantly take the time to refresh, work on me and put myself in order again. I face my fears on a daily basis.\nI face my fears on a daily basis. What’s left to be afraid of? Not much. The past couple of weeks I am enjoying a beautiful state of fearlessness.\nI feel very powerful. In the sense that I am in control of my life. I decide what I do, what I say, wether I go left or right. I am in charge and the boss.\nI love the people I am with on a daily basis. Except from work where I cannot always choose, I am surrounded by beautiful beings. My friends, my family, it is just perfect. I feel right in place and I love them so much.\nEveryday, I can honestly say that I give my best. Of course there are bad days. Of course. But I am not afraid. Thats ok. I take my time. I rest. I recover. Until life gives me so much energy again. It never seems to end. Ongoing fountain.\nYou can take everything away from me. Sit me naked in the desert. I know, that I am gonna come back and build my life back up again. The riches in my heart can never be taken away from me. I pray. I pray. I thank god. He seemed to put something inside of me. Some kind of light. Some kind of love. Some kind of blessing. And it is my duty not to keep it for my own. It is my duty to share the light everywhere I go. In form of a hug, a smile, a kind word… maybe even a serious one if it helps. I just gotta stay true to who I am. Thats what I have to do in life. Priority number one. No money, no external validation. Nothing like that. No interest. Just give me my peace of mind. Thats what I am about.\nI believe that everybody can just feel great. If we put in the work. It actually takes work. It may be a long way… but it is possible. Step by step. I am on this road for 8 years now. I started thinking when I was 17.\nI feel like I wanna hug the whole world. And release it from all the bullshit. Actually, 98% of the things we do really don’t even matter. Let\u0026rsquo;s focus on the 2% that do. Entirely.\nFabi ",
+      "content_html": "\u003cp\u003eOf course I am very good in life. I feel fantastic. It only makes sense.\u003c/p\u003e\n\u003cp\u003eOne of my highest values is hard work. I don\u0026rsquo;t take anything for granted, If I want something, I go and get it. I deserve it.\u003c/p\u003e\n\u003cp\u003eI am taking care very well of me. I work out at least 3 times a week, to look good, be strong, and keep my masculine hormones all intact.\u003c/p\u003e\n\u003cp\u003eI eat well. Almost no junkfood. I avoid sugar, and to a great deal I only eat natural foods, which did not went through a factory. I avoid chemicals at all costs.\u003c/p\u003e\n\u003cp\u003eI take care of my mind. I read books. I listen to podcasts. Everyday, my mind brings up new ideas. I feed my brain very well. Additionally, I am an expert at taking care of my emotional state. If I do not feel well, I instantly take the time to refresh, work on me and put myself in order again. I face my fears on a daily basis.\u003c/p\u003e\n\u003cp\u003eI face my fears on a daily basis. What’s left to be afraid of? Not much. The past couple of weeks I am enjoying a beautiful state of fearlessness.\u003c/p\u003e\n\u003cp\u003eI feel very powerful. In the sense that I am in control of my life. I decide what I do, what I say, wether I go left or right. I am in charge and the boss.\u003c/p\u003e\n\u003cp\u003eI love the people I am with on a daily basis. Except from work where I cannot always choose, I am surrounded by beautiful beings. My friends, my family, it is just perfect. I feel right in place and I love them so much.\u003c/p\u003e\n\u003cp\u003eEveryday, I can honestly say that I give my best. Of course there are bad days. Of course. But I am not afraid. Thats ok. I take my time. I rest. I recover. Until life gives me so much energy again. It never seems to end. Ongoing fountain.\u003c/p\u003e\n\u003cp\u003eYou can take everything away from me. Sit me naked in the desert. I know, that I am gonna come back and build my life back up again. The riches in my heart can never be taken away from me. I pray. I pray. I thank god. He seemed to put something inside of me. Some kind of light. Some kind of love. Some kind of blessing. And it is my duty not to keep it for my own. It is my duty to share the light everywhere I go. In form of a hug, a smile, a kind word… maybe even a serious one if it helps. I just gotta stay true to who I am. Thats what I have to do in life. Priority number one.\nNo money, no external validation. Nothing like that. No interest. Just give me my peace of mind. Thats what I am about.\u003c/p\u003e\n\u003cp\u003eI believe that everybody can just feel great. If we put in the work. It actually takes work. It may be a long way… but it is possible. Step by step. I am on this road for 8 years now. I started thinking when I was 17.\u003c/p\u003e\n\u003cp\u003eI feel like I wanna hug the whole world. And release it from all the bullshit. Actually, 98% of the things we do really don’t even matter. Let\u0026rsquo;s focus on the 2% that do. Entirely.\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eFabi\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "url": "https://fabisblog.com/posts/i_feel_great/",
+      "date_published": "12126-12-09T1212:1212:00+01:00",
+      "date_modified": "12126-12-09T1212:1212:00+01:00",
+      "author": {
+        "name": "<no value>",
+        "url": "https://fabisblog.com"
+      }
+    },
+    
+    {
+      "id": "4744a1832d85a206e85fb716ca7ad257fe313c15",
+      "title": "Grief, Tears Of Joy",
+      "summary": "",
+      "content_text": "How can it be so sweet and bitter at the same time? Sitting here, in grief, with tears of joy.\nI don\u0026rsquo;t want to leave. I want to stay, the moment never passing. The weekend going on forever.\nAgain, the manifestation of being in the right place, at the right time, with the right people. That feeling of… fullness, and connection.\nBut I have to go. Waking up early in the morning.\nFabi ",
+      "content_html": "\u003cp\u003eHow can it be so sweet and bitter at the same time? Sitting here, in grief, with tears of joy.\u003c/p\u003e\n\u003cp\u003eI don\u0026rsquo;t want to leave. I want to stay, the moment never passing. The weekend going on forever.\u003c/p\u003e\n\u003cp\u003eAgain, the manifestation of being in the right place, at the right time, with the right people. That feeling of… fullness, and connection.\u003c/p\u003e\n\u003cp\u003eBut I have to go. Waking up early in the morning.\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eFabi\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "url": "https://fabisblog.com/posts/grief_tears_of_joy/",
+      "date_published": "12126-12-09T1232:1212:00+01:00",
+      "date_modified": "12126-12-09T1232:1212:00+01:00",
+      "author": {
+        "name": "<no value>",
+        "url": "https://fabisblog.com"
+      }
+    },
+    
+    {
+      "id": "76e7ccab30a0e6e33724cae2e429d0e5b63fd383",
+      "title": "First Things First",
+      "summary": "",
+      "content_text": "What I have realized is that my mental and emotional state ALWAYS comes first. At any day, point, and situation in life. When I feel like it… I do it. Even when I am at work. Even when something important is happening. For a minute I go outside. I take deep breaths. I feel. I center myself.\nThere I go again. Here I am. Fresh. Full of life.\nSometimes something hits us in daily life - and we shake. What was that? We may ask ourselves. Or maybe we know very well.\nSome kind of trigger. Someone laughing in the back. Some thing you see. Something that somehow resonates and triggers YOU.\nDon’t think that you have to react, or be, this or any other way… Don’t think that you have to endure the negativity and when its over THEN you will relax and calm down. Do it NOW. And see life unfolding in new ways. YOUR ways!\nWhen we ignore and simply move on - we lose our presence. Our power. Our authenticity. And this comes with a huge price.\nMake the world a product of you, not yourself a product of the world.\nSo, please please please, put yourself FIRST! YOU ARE WORTH IT. You are doing yourself and everybody around a great honor.\nI appreciate you.\nHave a good day,\nFabi ",
+      "content_html": "\u003cp\u003eWhat I have realized is that my mental and emotional state ALWAYS comes first. At any day, point, and situation in life. When I feel like it… I do it. Even when I am at work. Even when something important is happening. For a minute I go outside. I take deep breaths. I feel. I center myself.\u003c/p\u003e\n\u003cp\u003eThere I go again. Here I am. Fresh. Full of life.\u003c/p\u003e\n\u003cp\u003eSometimes something hits us in daily life - and we shake. What was that? We may ask ourselves. Or maybe we know very well.\u003c/p\u003e\n\u003cp\u003eSome kind of trigger. Someone laughing in the back. Some thing you see. Something that somehow resonates and triggers YOU.\u003c/p\u003e\n\u003cp\u003eDon’t think that you have to react, or be, this or any other way…  Don’t think that you have to endure the negativity and when its over THEN you will relax and calm down. Do it NOW. And see life unfolding in \u003cem\u003enew ways\u003c/em\u003e. YOUR ways!\u003c/p\u003e\n\u003cp\u003eWhen we ignore and simply move on - we lose our presence. Our power. Our authenticity. And this comes with a huge price.\u003c/p\u003e\n\u003cp\u003eMake the world a product of you, not yourself a product of the world.\u003c/p\u003e\n\u003cp\u003eSo, please please please, put yourself FIRST! YOU ARE WORTH IT. You are doing yourself and everybody around a great honor.\u003c/p\u003e\n\u003cp\u003eI appreciate you.\u003c/p\u003e\n\u003cp\u003eHave a good day,\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eFabi\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "url": "https://fabisblog.com/posts/first_things_first/",
+      "date_published": "7126-07-09T1240:77:00+01:00",
+      "date_modified": "7126-07-09T1240:77:00+01:00",
+      "author": {
+        "name": "<no value>",
+        "url": "https://fabisblog.com"
+      }
+    },
+    
+    {
+      "id": "0e9e7591c9d53cd0dba3089a53ad6039bb002459",
+      "title": "Dopamine Kicks Ruin Lives",
+      "summary": "",
+      "content_text": "My theory is that the more artificial dopamine we consume, produce and exert… the more fucked up and unhappy we get.\nThe more social media scrolling, smoking, drinking, porn, sugar, overeating, youtube videos, Netflix, thousand selfies, and so on, you name it… the more we burn out. The list can go on forever in this modern world.\nI think there is nothing wrong with all these things itself. It is HOW we use it.\nMany many people are using all those things to numb themselves. To numb the pain. To get the next dopamine kick. And the next. And the next. Until we crash.\nI find that NONE of these things listed above REALLY make me happy. Sometimes they are fun. Until it\u0026rsquo;s enough. No more interest.\nWhat I find which REALLY makes me happy is authentic self expression… which comes from within. I mean things like creativity, writing, drawing, connecting and spending time with people, working out, feeling my body, reading, going out into nature, just being…\nSome of that stuff it is for me. Most of the time I am actually doing things that are meaningful to me.\nTo me. Everybody is an individual. And you gotta figure out the stuff that REALLY makes you happy and fulfilled in life.\nWatch out for all these tiny little addictive dopamine kicks. They never fill us up. They are endless cravings. They ruin lives.\nFabi ",
+      "content_html": "\u003cp\u003eMy theory is that the more artificial dopamine we consume, produce and exert… the more fucked up and unhappy we get.\u003c/p\u003e\n\u003cp\u003eThe more social media scrolling, smoking, drinking, porn, sugar, overeating, youtube videos, Netflix, thousand selfies, and so on, you name it… the more we burn out. The list can go on forever in this modern world.\u003c/p\u003e\n\u003cp\u003eI think there is nothing wrong with all these things itself. It is HOW we use it.\u003c/p\u003e\n\u003cp\u003eMany many people are using all those things to numb themselves. To numb the pain. To get the next dopamine kick. And the next. And the next. Until we crash.\u003c/p\u003e\n\u003cp\u003eI find that NONE of these things listed above REALLY make me happy. Sometimes they are fun. Until it\u0026rsquo;s enough. No more interest.\u003c/p\u003e\n\u003cp\u003eWhat I find which REALLY makes me happy is authentic self expression… which comes from within. I mean things like creativity, writing, drawing, connecting and spending time with people, working out, feeling my body, reading, going out into nature, just being…\u003c/p\u003e\n\u003cp\u003eSome of that stuff it is for me. Most of the time I am actually doing things that are \u003cem\u003emeaningful\u003c/em\u003e to me.\u003c/p\u003e\n\u003cp\u003eTo me. Everybody is an individual. And you gotta figure out the stuff that \u003cem\u003eREALLY\u003c/em\u003e makes you happy and \u003cem\u003efulfilled\u003c/em\u003e in life.\u003c/p\u003e\n\u003cp\u003eWatch out for all these tiny little addictive dopamine kicks. They never fill us up. They are endless cravings. They ruin lives.\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eFabi\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "url": "https://fabisblog.com/posts/dopamine_kicks_ruin_lives/",
+      "date_published": "1126-01-09T122:11:00+01:00",
+      "date_modified": "1126-01-09T122:11:00+01:00",
+      "author": {
+        "name": "<no value>",
+        "url": "https://fabisblog.com"
+      }
+    },
+    
+    {
+      "id": "e4a0264dca789005cee2b41bf2a7ccda5d91f764",
+      "title": "Laying Low",
+      "summary": "",
+      "content_text": "Hello,\ntoday was a day I was laying very low. After a weekend of traveling, a day has come to just sleep, recover, and catch up at what happened these busy past few days.\nBefore going to sleep soon I am reading some beautiful lines here in front of me, which I feel like sharing with you.\n„Whatsoever a man soweth that shall he also reap.This means that whatever man sends out in the world or deed, will return to him; what he gives, he will receive. If he gives hate, he will receive hate; if he gives love; he will receive love; if he gives criticism, he will receive criticism; if he lies he will be lied to; if he cheats he will be cheated. We are taught also, that the imaging faculty plays a leading part in the game of life. Keep thy heart (or imagination) with all diligence, for out of it are the issues of life“\nQuoted from „The writings of Florence Scovel Shinn“.\nI look back at my weekend. The years. My friends, my life. What have I created? What have I received? Most importantly, what did I give?\nThere are unbelievable amounts of gratitude which I can feel. So much joy. Thank you.\nOn the other hand, I feel for the things that I gave which have created pain in the world. I am sorry. I was weak and stupid. I will do anything in my power to get strong and create more of the good. Because thats for what I am here.\nTo take ownership and responsibility for all that happens to me… heaven and hell.\nTo take ownership and responsibility for all that happens to me… I would choose no differently.\nFabi ",
+      "content_html": "\u003cp\u003eHello,\u003c/p\u003e\n\u003cp\u003etoday was a day I was laying very low. After a weekend of traveling, a day has come to just sleep, recover, and catch up at what happened these busy past few days.\u003c/p\u003e\n\u003cp\u003eBefore going to sleep soon I am reading some beautiful lines here in front of me, which I feel like sharing with you.\u003c/p\u003e\n\u003cp\u003e\u003cem\u003e„Whatsoever a man soweth that shall he also reap.This means that whatever man sends out in the world or deed, will return to him; what he gives, he will receive.\nIf he gives hate, he will receive hate; if he gives love; he will receive love; if he gives criticism, he will receive criticism; if he lies he will be lied to; if he cheats he will be cheated. We are taught also, that the imaging faculty plays a leading part in the game of life.\nKeep thy heart (or imagination) with all diligence, for out of it are the issues of life“\u003c/em\u003e\u003c/p\u003e\n\u003cp\u003eQuoted from „The writings of Florence Scovel Shinn“.\u003c/p\u003e\n\u003cp\u003eI look back at my weekend. The years. My friends, my life. What have I created? What have I received? Most importantly, what did I give?\u003c/p\u003e\n\u003cp\u003eThere are unbelievable amounts of gratitude which I can feel. So much joy. Thank you.\u003c/p\u003e\n\u003cp\u003eOn the other hand, I feel for the things that I gave which have created pain in the world. I am sorry. I was weak and stupid. I will do anything in my power to get strong and create more of the good. Because thats for what I am here.\u003c/p\u003e\n\u003cp\u003eTo take ownership and responsibility for all that happens to me… heaven and hell.\u003c/p\u003e\n\u003cp\u003eTo take ownership and responsibility for all that happens to me… I would choose no differently.\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eFabi\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "url": "https://fabisblog.com/posts/laying_low/",
+      "date_published": "28116-28-09T112:2828:00+01:00",
+      "date_modified": "28116-28-09T112:2828:00+01:00",
+      "author": {
+        "name": "<no value>",
+        "url": "https://fabisblog.com"
+      }
+    },
+    
+    {
+      "id": "5afc688ff578469d16d9dc0e6185bc41a08771f0",
+      "title": "Do As You Please",
+      "summary": "",
+      "content_text": "We all know that guy who is always tired. That guy who seems to love to sleep on the table in school. Even though he already had his 11 hours at night.\nI know the cause.\nWhen we do not create our lives by how we personally feel and think, we experience a loss of energy. We are a victim of circumstance. We get tired, bored, or even stressed.\nThe cure for that is to proactively create the situation to how we desire it to be. With and through presence.\nPresence is the answer.\nCreating reality requires strength. Independence. Self esteem. Values which I would love to see more of in this modern world.\nThe good news is that we can get our strength back, if we have lost it somehow.\nThe answer is to live by our own inspiration (\u0026amp; imagination). And to build up our self esteem again.\nIn all areas of my life (work, relationship, sport, art, etc.), I like to do things just the way I want them to be. I decide. I do as I please. (And that does not necessarily exclude a compromise!).\nThat puts us in a state of energy, presence, fullness, confidence, and fun.\nI can hear people scream that we just cannot do as we please.\nI tell you that we can. Otherwise, life is going to be a disaster.\nIn the first place, who the fuck tells you what to do? And why do people believe they can’t be doing what they truly desire? The system is coming for you. Watch out.\nI decide that my life is mine. I do as I please. I do what I think is best for me and the world. And I also want to see people strong and inspired building their life the way they wish it to be, day by day!\nHave a good one!\nFabi ",
+      "content_html": "\u003cp\u003eWe all know that guy who is always tired. That guy who seems to love to sleep on the table in school. Even though he already had his 11 hours at night.\u003c/p\u003e\n\u003cp\u003eI know the cause.\u003c/p\u003e\n\u003cp\u003eWhen we do not create our lives by how we personally feel and think, we experience \u003cem\u003ea loss of energy.\u003c/em\u003e  We are a victim of circumstance. We get tired, bored, or even stressed.\u003c/p\u003e\n\u003cp\u003eThe cure for that is to proactively create the situation to how we desire it to be. With and through presence.\u003c/p\u003e\n\u003cp\u003e\u003cem\u003ePresence is the answer.\u003c/em\u003e\u003c/p\u003e\n\u003cp\u003eCreating reality requires strength. Independence. Self esteem. Values which I would love to see more of in this modern world.\u003c/p\u003e\n\u003cp\u003eThe good news is that we \u003cem\u003ecan\u003c/em\u003e get our strength back, if we have lost it somehow.\u003c/p\u003e\n\u003cp\u003eThe answer is to live by our own inspiration (\u0026amp; imagination). And to build up our self esteem again.\u003c/p\u003e\n\u003cp\u003eIn all areas of my life (work, relationship, sport, art, etc.), I like to do things just the way I want them to be. I decide. I do as I please. (And that does not necessarily exclude a compromise!).\u003c/p\u003e\n\u003cp\u003eThat puts us in a state of energy, presence, fullness, confidence, and fun.\u003c/p\u003e\n\u003cp\u003eI can hear people scream that we just cannot do as we please.\u003c/p\u003e\n\u003cp\u003eI tell you that we can. Otherwise, life is going to be a disaster.\u003c/p\u003e\n\u003cp\u003eIn the first place, who the fuck tells you what to do? And why do people believe they can’t be doing what they truly desire? The system is coming for you. Watch out.\u003c/p\u003e\n\u003cp\u003eI decide that my life is mine. I do as I please. I do what I think is best for me and the world. And I also want to see people strong and inspired building their life the way they wish it to be, day by day!\u003c/p\u003e\n\u003cp\u003eHave a good one!\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eFabi\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "url": "https://fabisblog.com/posts/do_as_you_please/",
+      "date_published": "23116-23-09T1121:2323:00+01:00",
+      "date_modified": "23116-23-09T1121:2323:00+01:00",
+      "author": {
+        "name": "<no value>",
+        "url": "https://fabisblog.com"
+      }
+    },
+    
+    {
+      "id": "4da7bc9200c71949eae8135d4a25bb5b299cf7cc",
+      "title": "Overflow",
+      "summary": "",
+      "content_text": "Today is a day, I feel like a a fountain spilling over and over with no end in sight. Like an endless machine full of ideas, new thoughts, focus, energy, inspiration, authenticity, courage, and so on…\nIt’s day’s like these when I am feeling so full and alive. After unlearning lots and lots of shit that society threw upon me, I peeled many layers of that onion to get to the core.\nStill happening. Still working on it.\nOur core is full of love. Inspiration. Imagination. Creativity. And first and foremost, the measure of it all: energy\nFor example, children are fascinating to me. Look at them, running around all day long, having ideas with no end… the energy they exert, that pure confidence, presence, and incredibly high self esteem. They come so pure. Natural. It is truly amazing.\nThat is before the system got a hold of them and swallowed them as a whole.\nI truly believe that this innate energy that children express so naturally is who we truly are.\nLet\u0026rsquo;s get back to the core. To infinite fun, love, confidence, presence, and everything which you truly desire in life!\nFabi ",
+      "content_html": "\u003cp\u003eToday is a day, I feel like a a fountain spilling over and over with no end in sight. Like an endless machine full of ideas, new thoughts, focus, energy, inspiration, authenticity, courage, and so on…\u003c/p\u003e\n\u003cp\u003eIt’s day’s like these when I am feeling so full and alive. After unlearning lots and lots of shit that society threw upon me, I peeled many layers of that onion to get to the core.\u003c/p\u003e\n\u003cp\u003eStill happening. Still working on it.\u003c/p\u003e\n\u003cp\u003eOur core is full of love. Inspiration. Imagination. Creativity. And first and foremost, the measure of it all: \u003cem\u003eenergy\u003c/em\u003e\u003c/p\u003e\n\u003cp\u003eFor example, children are fascinating to me. Look at them, running around all day long, having ideas with no end… the energy they exert, that pure confidence, presence, and incredibly high self esteem. They come so pure. Natural. It is truly amazing.\u003c/p\u003e\n\u003cp\u003eThat is \u003cem\u003ebefore the system\u003c/em\u003e got a hold of them and swallowed them as a whole.\u003c/p\u003e\n\u003cp\u003eI truly believe that this innate energy that children express so naturally is who we truly are.\u003c/p\u003e\n\u003cp\u003eLet\u0026rsquo;s get back to the core. To infinite fun, love, confidence, presence, and everything which you truly desire in life!\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eFabi\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "url": "https://fabisblog.com/posts/overflow/",
+      "date_published": "21116-21-09T113:2121:00+01:00",
+      "date_modified": "21116-21-09T113:2121:00+01:00",
+      "author": {
+        "name": "<no value>",
+        "url": "https://fabisblog.com"
+      }
+    },
+    
+    {
+      "id": "ff8e3a0df2305ce688d349212ac2a6d4fa457b69",
+      "title": "Reality (Visions)",
+      "summary": "",
+      "content_text": "Reality is so… formable.\nWalking through days seeing infinite possible realities potentially unfolding…\nwhich one do we choose?\nwhich one do you wish for?\nInfinite numbers of ways to act… choosing accordingly to soul.\nRight or left? Up or down? Kind or angry? Full or empty?\nTo find those who are yours…\nWhich we choose.\n",
+      "content_html": "\u003cp\u003eReality is so… formable.\u003c/p\u003e\n\u003cp\u003eWalking through days seeing infinite possible realities potentially unfolding…\u003c/p\u003e\n\u003cp\u003ewhich one do we choose?\u003cbr\u003e\nwhich one do you wish for?\u003c/p\u003e\n\u003cp\u003eInfinite numbers of ways to act… choosing accordingly to soul.\u003c/p\u003e\n\u003cp\u003eRight or left? Up or down? Kind or angry? \u003cem\u003eFull or empty\u003c/em\u003e?\u003c/p\u003e\n\u003cp\u003eTo find those who are yours…\u003c/p\u003e\n\u003cp\u003eWhich we \u003cem\u003echoose\u003c/em\u003e.\u003c/p\u003e\n",
+      "url": "https://fabisblog.com/posts/reality_visions/",
+      "date_published": "21116-21-09T1155:2121:00+01:00",
+      "date_modified": "21116-21-09T1155:2121:00+01:00",
+      "author": {
+        "name": "<no value>",
+        "url": "https://fabisblog.com"
+      }
+    },
+    
+    {
+      "id": "5b968bd2c47b3621328bcde661b5d00bbb234e51",
+      "title": "Freshness",
+      "summary": "",
+      "content_text": "The past couple days I have this feeling of freshness over me…\nI see the world with brand new eyes.\nMy brand.\nI see infinite numbers of possible ways for reality to unfold right here and now… and, I got to choose.\nI have never felt it that intense before.\nI am on my way to unlocking imagination on a different kind of level again. Remember the days filled with rainbows? You were very, very young.\nIt feels like I am getting back there again.\nThese past few days I have been enjoying perfect absence of any kind of fear. I mean it. These days are up there with ones of the best of my life. And nothing spectacular even happened. It is within me.\nCan I create more of that I ask myself?\nEven though my sight is clear… new questions arising on the horizon.\nIs it the endless flow of life?\nI appreciate.\nFabi ",
+      "content_html": "\u003cp\u003eThe past couple days I have this feeling of freshness over me…\u003c/p\u003e\n\u003cp\u003eI see the world with \u003cem\u003ebrand\u003c/em\u003e new eyes.\u003c/p\u003e\n\u003cp\u003eMy brand.\u003c/p\u003e\n\u003cp\u003eI see infinite numbers of possible ways for reality to unfold right here and now… and, I got to choose.\u003c/p\u003e\n\u003cp\u003eI have never felt it that intense before.\u003c/p\u003e\n\u003cp\u003eI am on my way to unlocking imagination on a different kind of level again. Remember the days filled with rainbows? You were very, very young.\u003c/p\u003e\n\u003cp\u003eIt feels like I am getting back there again.\u003c/p\u003e\n\u003cp\u003eThese past few days I have been enjoying perfect absence of any kind of fear. I mean it. These days are up there with ones of the best of my life. And nothing spectacular even happened. It is within me.\u003c/p\u003e\n\u003cp\u003eCan I create more of that I ask myself?\u003c/p\u003e\n\u003cp\u003eEven though my sight is clear… new questions arising on the horizon.\u003c/p\u003e\n\u003cp\u003eIs it the endless flow of life?\u003c/p\u003e\n\u003cp\u003eI appreciate.\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eFabi\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "url": "https://fabisblog.com/posts/freshness/",
+      "date_published": "21116-21-09T1155:2121:00+01:00",
+      "date_modified": "21116-21-09T1155:2121:00+01:00",
+      "author": {
+        "name": "<no value>",
+        "url": "https://fabisblog.com"
+      }
+    },
+    
+    {
+      "id": "88d4bd96e08f09fced2efb1614db858246cb80ab",
+      "title": "Writing It is",
+      "summary": "",
+      "content_text": "For such a long time I contain that desire to write. It is living within me. Burning high. I have just read a piece from a year ago expressing that feeling so clearly. It was as if I wrote it just an hour ago. I remember so vividly, going my way through the woods, not far from home. I am coming closer and that feeling for writing is rising up. \u0026ldquo;Hi, here I am again!\u0026rdquo;. What a moment of beauty and presence. What a beautiful moment of indulging in desire.\nNow I feel at home.\nFabi ",
+      "content_html": "\u003cp\u003eFor such a long time I contain that desire to write. It is living within me. Burning high. I have just read a piece from a year ago expressing that feeling so clearly. It was as if I wrote it just an hour ago. I remember so vividly, going my way through the woods, not far from home. I am coming closer and that feeling for writing is rising up. \u0026ldquo;Hi, here I am again!\u0026rdquo;. What a moment of beauty and presence. What a beautiful moment of indulging in desire.\u003c/p\u003e\n\u003cp\u003eNow I feel at home.\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eFabi\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "url": "https://fabisblog.com/posts/writing_it_is/",
+      "date_published": "6116-06-09T1158:66:00+01:00",
+      "date_modified": "6116-06-09T1158:66:00+01:00",
+      "author": {
+        "name": "<no value>",
+        "url": "https://fabisblog.com"
+      }
+    },
+    
+    {
+      "id": "51bbfbbb780b766f3aa862938930bfcaee0c552b",
+      "title": "Live And Tell Your Truth",
+      "summary": "",
+      "content_text": "It is our duty! To live, speak and tell our truth, which we have found. But this in itself requires us to go through a journey.. a journey of self discovery. A discovery of who we are and what we stand for. A really famous and definitely one of my favorite quotes I have ever heard is „a man who won’t stand for something will fall for anything“. And it\u0026rsquo;s true. Not only for men. It is for everybody. And I really respect people who got that thing, and everyday I make sure that I am one of them as well.\nTo stand for something gives you power. It gives you a point in life. It gives you YOUR point and power in life!\nI am writing FOR people. I am rooting FOR you! For your unique and individual power, strengths, qualities, values, character, and so on… I want to see people strong. Healthy. Free.\nI know the sheer power within every single one of us. Many times, I believe in people even more than they believe in themselves. Because I know where I came from. The mental and physical state I have been in. I know how it feels like to be depressed, weak, unworthy, anxious, lost… BUT on the other hand, I know even more how it feels to be strong, healthy, fit, confident, free, HAPPY, grateful, powerful… fulfilled!\nI kind of know whats possible. I have experienced how far we can climb.\nI believe that, at least potentially, every person, YOU, got soooooooo much energy inside. You can move things. You can impact. You can create your life beyond any limit.\nI wish you a wonderful and powerful day, and a good journey in this life.\nFabi ",
+      "content_html": "\u003cp\u003eIt is our duty! To live, speak and tell our truth, which we have found. But this in itself requires us to go through a journey.. a journey of self discovery. A discovery of who we are and what we stand for. A really famous and definitely one of my favorite quotes I have ever heard is „a man who won’t stand for something will fall for anything“. And it\u0026rsquo;s true. Not only for men. It is for everybody. And I really respect people who got that thing, and everyday I make sure that I am one of them as well.\u003c/p\u003e\n\u003cp\u003eTo stand for something gives you power. It gives you a point in life. It gives you YOUR point and power in life!\u003c/p\u003e\n\u003cp\u003eI am writing FOR people. I am rooting FOR you! For your unique and individual power, strengths, qualities, values, character, and so on… I want to see people strong. Healthy. Free.\u003c/p\u003e\n\u003cp\u003eI know the sheer power within every single one of us. Many times, I believe in people even more than they believe in themselves. Because I know where I came from. The mental and physical state I have been in. I know how it feels like to be depressed, weak, unworthy, anxious, lost…\nBUT on the other hand, I know even more how it feels to be strong, healthy, fit, confident, free, HAPPY, grateful, powerful… \u003cem\u003efulfilled\u003c/em\u003e!\u003c/p\u003e\n\u003cp\u003eI kind of know whats possible. I have experienced how far we can climb.\u003c/p\u003e\n\u003cp\u003eI believe that, at least potentially, every person, YOU, got soooooooo much energy inside. You can move things. You can impact. You can create your life beyond any limit.\u003c/p\u003e\n\u003cp\u003eI wish you a wonderful and powerful day, and a good journey in this life.\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eFabi\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "url": "https://fabisblog.com/posts/live_and_tell_your_truth/",
+      "date_published": "3116-03-09T1119:33:00+01:00",
+      "date_modified": "3116-03-09T1119:33:00+01:00",
+      "author": {
+        "name": "<no value>",
+        "url": "https://fabisblog.com"
+      }
+    },
+    
+    {
+      "id": "6156cf6ef41d702005565081c3b283e240134152",
+      "title": "Just Another Piece",
+      "summary": "",
+      "content_text": "God, I feel like I’ve been doing this forever already. Hah! Just a-nother piece (insert singing voice). I’m tired. Which is good. I had a good day. Fuck, it was great to be honest. I ate well, trained hard, connected with people, learned some new things, did what I am supposed to do. I kind of even „broke a record“. Our trainer told us that in many years only 3 people did a rope swing from one section to another, at a certain distance. I took the challenge and did it as well. I felt like I could go even further. Well, was fun. Thank you.\nSince the end of 2014 I am continuously writing \u0026ldquo;a diary\u0026rdquo;. I got 5 smaller books filled already. Capturing my days, emotions, situations, thoughts, ideas, whatsoever. Mainly though it is about how I feel, what I think and what i am doing. Where I stand in life. Sometimes, maybe every couple months, I go back through some parts of them. Life never ceases to amaze me. In hindsight I see the way I took. Who I was. Who I’ve become. The areas in which I have grown. My problems, which have resolved or maybe did not.\nFabi ",
+      "content_html": "\u003cp\u003eGod, I feel like I’ve been doing this forever already. Hah! Just a-nother piece (insert singing voice). I’m tired. Which is good. I had a good day. Fuck, it was great to be honest. I ate well, trained hard, connected with people, learned some new things, did what I am supposed to do. I kind of even „broke a record“. Our trainer told us that in many years only 3 people did a rope swing from one section to another, at a certain distance. I took the challenge and did it as well. I felt like I could go even further. Well, was fun. Thank you.\u003c/p\u003e\n\u003cp\u003eSince the end of 2014 I am continuously writing \u0026ldquo;a diary\u0026rdquo;. I got 5 smaller books filled already. Capturing my days, emotions, situations, thoughts, ideas, whatsoever. Mainly though it is about how I feel, what I think and what i am doing. Where I stand in life. Sometimes, maybe every couple months, I go back through some parts of them. Life never ceases to amaze me. In hindsight I see the way I took. Who I was. Who I’ve become. The areas in which I have grown. My problems, which have resolved or maybe did not.\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eFabi\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "url": "https://fabisblog.com/posts/just_another_piece/",
+      "date_published": "2116-02-09T1110:22:00+01:00",
+      "date_modified": "2116-02-09T1110:22:00+01:00",
+      "author": {
+        "name": "<no value>",
+        "url": "https://fabisblog.com"
+      }
+    },
+    
+    {
+      "id": "8183609388271d9f4949d2e66032c2f1d2252594",
+      "title": "That Special Place",
+      "summary": "",
+      "content_text": "I close my eyes. I take a deep breath. I visit again. Here I am. At this special place. I don’t wanna write just like this. I am no academic. Maybe I am. Who even cares. I am someone close to me. To that thing. So close.\nSome call it the flow state. Some may even call it trance. Others, including me, like to describe it as full presence. It\u0026rsquo;s that place where no thinking takes place, just the current. The art. The moment. Creation! That’s where i am coming from. That’s where I go. That’s where I am.\nI am no native english speaker. But that language became so dear to me. I apologize for errors. But is there some like that, I wonder? Language is like art, expressing. I came to the conclusion that self expression is so much life. Self expression feels good, is right, it may be even the core of being. So, through language, here I go. Poetically?\nSELF EXPRESSION, I read in big letters right here on my desk. I wrote it down quite some time ago, in full conviction. And still, to this day, it\u0026rsquo;s SO RIGHT. I mean, the good days are filled with self expression. All of them! Think about it. Those days, when you feel uninhibited, free, self confidently saying what you think, thats great! And I wish everybody could experience more of that, BECAUSE THATS WHO WE ARE AND WHY WE ARE HERE. To self express. Beings, that express themselves freely. I love it! I love to do it as much as I love to see it in others!\nThe premise for self expression is self esteem. Only if we FEEL worth and appropriate to express ourselves as we are, we can live it. Self esteem might be the topic I studied most extensively in my life, for years, and hundreds of hours. What it is, where it comes from, what it does, how it works, and of course how to increase it. Self esteem is a topic I will dive very very deep into, and there might be a chunk of it in almost every post I publish. I feel like right now I could go on for hours, writing and writing… it’s that special place.\nFabi ",
+      "content_html": "\u003cp\u003eI close my eyes. I take a deep breath. I visit again. Here I am. At this special place. I don’t wanna write just like this. I am no academic. Maybe I am. Who even cares. I am someone close to me. To that thing. So close.\u003c/p\u003e\n\u003cp\u003eSome call it the flow state. Some may even call it trance. Others, including me, like to describe it as full presence. It\u0026rsquo;s that place where no thinking takes place, just the current. The art. The moment. Creation! That’s where i am coming from. That’s where I go. That’s where I am.\u003c/p\u003e\n\u003cp\u003eI am no native english speaker. But that language became so dear to me. I apologize for errors. But is there some like that, I wonder? Language is like art, expressing. I came to the conclusion that self expression is so much life. Self expression feels good, is right, it may be even the core of being. So, through language, here I go. Poetically?\u003c/p\u003e\n\u003cp\u003eSELF EXPRESSION, I read in big letters right here on my desk. I wrote it down quite some time ago, in full conviction. And still, to this day, it\u0026rsquo;s SO RIGHT. I mean, the good days are filled with self expression. All of them! Think about it. Those days, when you feel uninhibited, free, self confidently saying what you think, thats great! And I wish everybody could experience more of that, BECAUSE THATS WHO WE ARE AND WHY WE ARE HERE. To self express. Beings, that express themselves freely. I love it! I love to do it as much as I love to see it in others!\u003c/p\u003e\n\u003cp\u003eThe premise for self expression is self esteem. Only if we FEEL worth and appropriate to express ourselves as we are, we can live it. Self esteem might be the topic I studied most extensively in my life, for years, and hundreds of hours. What it is, where it comes from, what it does, how it works, and of course how to increase it. Self esteem is a topic I will dive very very deep into, and there might be a chunk of it in almost every post I publish. I feel like right now I could go on for hours, writing and writing… it’s that special place.\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eFabi\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "url": "https://fabisblog.com/posts/that_special_place/",
+      "date_published": "2116-02-09T1138:22:00+01:00",
+      "date_modified": "2116-02-09T1138:22:00+01:00",
+      "author": {
+        "name": "<no value>",
+        "url": "https://fabisblog.com"
+      }
+    }
+    
+  ]
+}
