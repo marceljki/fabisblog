@@ -1,9 +1,22 @@
+name: AWS Upload
+on: [push]
 jobs:
-  deploy:
-  - name: Upload to S3
-          run: |
-            aws s3 sync ./public s3://fabisblog.com/test
-          env:
-            AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-            AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-            AWS_DEFAULT_REGION: 'eu-central-1'
+  Upload:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Configure AWS Credentials
+      uses: aws-actions/configure-aws-credentials@v1
+      with:
+        aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+        aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+        aws-region: ${{ secrets.AWS_REGION }}
+        
+    - name: run
+      run: |
+        aws s3 sync ./public s3://fabisblog.com/test
+
+
+
+
+
+
